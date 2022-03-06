@@ -1,0 +1,40 @@
+.container
+{
+width:100%;
+margin: auto;
+
+}
+
+.box-1
+{
+	padding: 10px;
+	border:10px red solid;
+	border-left: 15px red solid;
+	border-right:15px red solid ;
+	border-top: 15px red solid ;
+	border-bottom: 15px red solid;
+
+}
+
+.contents
+{
+	border: 1px solid #ccc;
+	padding: 10px;
+	border-radiusmargin:15px ;
+}
+
+.button
+{
+	color: #fffffff;
+}
+
+
+
+.block
+{
+	float: left;
+	width: 30.90%;
+	border: 4px solid #ccc;
+	padding: 10px;
+	box-sizing: border-box;
+}
